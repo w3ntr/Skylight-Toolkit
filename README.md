@@ -4,6 +4,8 @@
 
 The project was created as a tool for researching game mechanics, analyzing procedural generation, and expanding movement capabilities. The main focus is on modular architecture, clean code, and compatibility with older Unity versions.
 
+You can download the game here: [Skylight](https://nition.itch.io/skylight).
+
 ## Architecture Features
 
 - **Modular approach.** Each functional block is implemented as a separate `static` class with a clear lifecycle (`Initialize`, `Update`, `OnGUI`).
