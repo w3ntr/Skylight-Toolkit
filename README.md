@@ -1,4 +1,4 @@
-# Skylight Toolkit v1.0
+# Skylight Toolkit
 
 **Skylight Toolkit** is a modification for the game Skylight, built on `MelonLoader v0.5.4`. The game is a first-person vertical platformer with procedurally generated levels, running on Unity 4.x (Win32).
 
