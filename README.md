@@ -1,5 +1,8 @@
 # Skylight Toolkit
 
+[![MelonLoader](https://img.shields.io/badge/MelonLoader-0.5.4-blueviolet.svg)](https://github.com/LavaGang/MelonLoader)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
+
 **Skylight Toolkit** is a modification for the game Skylight, built on `MelonLoader v0.5.4`. The game is a first-person vertical platformer with procedurally generated levels, running on Unity 4.x (Win32).
 
 The project was created as a tool for researching game mechanics, analyzing procedural generation, and expanding movement capabilities. The main focus is on modular architecture, clean code, and compatibility with older Unity versions.
